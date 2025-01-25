@@ -1,8 +1,0 @@
-[build]
-  publish = "public" # Sem napiš složku, kde je tvůj projekt (např. "dist" nebo "build").
-  command = ""       # Prázdné, pokud nemáš žádné speciální příkazy (např. npm run build).
-
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
